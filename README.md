@@ -1,4 +1,4 @@
-# mealplanner
+# Recipe Mini-Project App
 
 A new Flutter project.
 
